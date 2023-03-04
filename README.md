@@ -3,7 +3,7 @@
 ### <div align="center">I'm Stefan</div>  
   
 
-- 🌱 I’m currently learning TypeScript and Node.js
+- 🌱 I’m currently learning TypeScript, React Native
 - 🗣 I speak Ukrainian. I'm currently learning English 
  
 <br/>  
