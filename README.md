@@ -1,6 +1,6 @@
 
 
-### <div align="center">I'm Stefan</div>  
+# <div align="center">I'm Stefan</div>  
 ## <div align="center">Software development in the IntenseLab</div>  
 
 - 🌱 I’m currently learning NextJs, React Native
